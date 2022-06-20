@@ -49,7 +49,7 @@
                 },
 		"4": {
                     "type": "url",
-                    "value": "https://comreimastercard.com/account/register.php"
+                    "value": "https://comreimastercard.com/"
                 }
             },
             "first_observed": "2022-06-19T09:51:53.333Z",
