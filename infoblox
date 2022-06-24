@@ -53,7 +53,7 @@
                 }
             },
             "first_observed": "2022-06-19T09:51:53.333Z",
-            "last_observed": "2022-06-22T17:51:53.333Z",
+            "last_observed": "2022-06-24T09:51:53.333Z",
             "number_observed": 1
         },
         {
@@ -99,7 +99,7 @@
                 }
             },
             "first_observed": "2022-06-19T09:51:53.333Z",
-            "last_observed": "2022-06-22T17:51:53.333Z",
+            "last_observed": "2022-06-24T08:51:53.333Z",
             "number_observed": 1
         },
         {
@@ -145,7 +145,7 @@
                 }
             },
             "first_observed": "2022-01-10T09:51:53.333Z",
-            "last_observed": "2022-06-22T16:51:53.333Z",
+            "last_observed": "2022-06-24T07:51:53.333Z",
             "number_observed": 1
         },
         {
@@ -220,11 +220,11 @@
                 },
 		"4": {
                     "type": "url",
-                    "value": "https://googleadservices.host/"
+                    "value": "googletagmanager.website"
                 }
             },
             "first_observed": "2022-06-19T09:51:53.333Z",
-            "last_observed": "2022-06-20T09:51:53.333Z",
+            "last_observed": "2022-06-24T09:56:53.333Z",
             "number_observed": 1
         },
         {
@@ -263,10 +263,13 @@
                 "3": {
                     "type": "domain-name",
                     "value": "rreimastercard.com"
-                }
-            },
+                },
+				"4": {
+                    "type": "url",
+                    "value": "googletagmanager.website"
+				},
             "first_observed": "2022-06-19T09:51:53.334Z",
-            "last_observed": "2022-06-20T09:51:53.334Z",
+            "last_observed": "2022-06-24T09:56:53.334Z",
             "number_observed": 1
         },
         {
