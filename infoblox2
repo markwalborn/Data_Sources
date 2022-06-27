@@ -1,6 +1,6 @@
 {
     "type": "bundle",
-    "id": "202fe97a-35d8-4b84-be2e-253047cc6274",
+    "id": "202fe97a-35d8-4b84-be2c-253047cc6274",
     "spec_version": "2.0",
     "objects": [
         {
@@ -38,7 +38,7 @@
                 },
                 "4": {
                     "type": "url",
-                    "value": "comreimastercard.com"
+                    "value": "comcajst.com"
                 },
                 "5": {
                     "type": "ipv4-addr",
