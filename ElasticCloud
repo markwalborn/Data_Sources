@@ -50,11 +50,19 @@
 		"4": {
                     "type": "url",
                     "value": "https://wlordpress.com/"
+                },
+		"5": {
+                    "type": "url",
+                    "value": "http://wlordpress.com/"
+                },
+		"4": {
+                    "type": "url",
+                    "value": "wlordpress.com"
                 }
             },
             "first_observed": "2022-06-19T09:51:53.333Z",
             "last_observed": "2022-06-27T09:51:53.333Z",
-            "number_observed": 4
+            "number_observed": 1
         },
         {
             "id": "observed-data--94060d7b-94cf-4093-932a-30f550b926be",
@@ -93,9 +101,17 @@
                     "type": "domain-name",
                     "value": "myreimastercard.com"
                 },
-				"4": {
+		"4": {
                     "type": "url",
                     "value": "https://comcajst.com/"
+                },
+		"5": {
+                    "type": "url",
+                    "value": "http://comcajst.com/"
+                },
+		"6": {
+                    "type": "url",
+                    "value": "comcajst.com"
                 }
             },
             "first_observed": "2022-06-19T09:51:53.333Z",
