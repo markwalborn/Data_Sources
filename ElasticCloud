@@ -49,7 +49,7 @@
                 },
 		"4": {
                     "type": "url",
-                    "value": "wlordpress.com"
+                    "value": "https://wlordpress.com/"
                 }
             },
             "first_observed": "2022-06-19T09:51:53.333Z",
@@ -95,7 +95,7 @@
                 },
 				"4": {
                     "type": "url",
-                    "value": "comcajst.com"
+                    "value": "https://comcajst.com/"
                 }
             },
             "first_observed": "2022-06-19T09:51:53.333Z",
