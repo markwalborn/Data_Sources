@@ -49,11 +49,11 @@
                 },
 		"4": {
                     "type": "url",
-                    "value": "google.plus"
+                    "value": "http://googie.plus/"
                 },
 		"5": {
                     "type": "url",
-                    "value": "http://google.plus/"
+                    "value": "https://googie.plus/"
                 },
 		"6": {
                     "type": "url",
